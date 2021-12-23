@@ -1,0 +1,4 @@
+//lalalatest
+
+a = "Hello world"
+print(a)
